@@ -12,7 +12,7 @@ int smokeA0 = A1;
 int digin = 14;
 
 // Ihr Schwellenwert
-int sensorThres = 150;
+int sensorThres = 50;
 
 unsigned long previousMillis = 0; // Variable zum Speichern des letzten Blinkzeitpunkts
 const long interval = 30000; // 30 Sekunden Intervall
